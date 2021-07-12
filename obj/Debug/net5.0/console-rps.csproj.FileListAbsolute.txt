@@ -1,0 +1,16 @@
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.exe
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.deps.json
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.runtimeconfig.json
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.runtimeconfig.dev.json
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.dll
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\ref\console-rps.dll
+C:\Users\erwak\source\codeworks\projects\console-rps\bin\Debug\net5.0\console-rps.pdb
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.csproj.AssemblyReference.cache
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.AssemblyInfoInputs.cache
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.AssemblyInfo.cs
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.csproj.CoreCompileInputs.cache
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.dll
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\ref\console-rps.dll
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.pdb
+C:\Users\erwak\source\codeworks\projects\console-rps\obj\Debug\net5.0\console-rps.genruntimeconfig.cache
